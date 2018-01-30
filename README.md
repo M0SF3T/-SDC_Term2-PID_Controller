@@ -1,6 +1,6 @@
 ## PID Controller Project
 
-<img src="test_image_1.jpg" width=340" alt="Combined Image" />
+<img src="test_image_1.jpg" width="340" alt="Combined Image" />
 
 Overview:
 ---
